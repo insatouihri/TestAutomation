@@ -11,4 +11,3 @@ open application
     Click Element    xpath=//android.widget.ImageButton[@index=0]
     Wait Until Page Contains Element    xpath=//android.widget.TextView[@text="Souscriptions SMS"]    timeout=30
     Click Element    xpath=//android.widget.TextView[@text="Souscriptions SMS"]
-    close Application
